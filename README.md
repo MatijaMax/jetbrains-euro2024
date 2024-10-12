@@ -1,2 +1,2 @@
-# analytics-playground
-Data projects playground
+# football-analytics
+Data analysis example ⚽
